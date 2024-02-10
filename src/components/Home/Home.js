@@ -34,12 +34,14 @@ const Home = () => {
             image="https://m.media-amazon.com/images/I/7152-mn8mKL._SX679_.jpg"
             rating={4}
           />
+
           <Product
             title="Shivganga Fashion Womens Net Semi-Stitched Lehenga Choli With Dupatta Set"
             price={799}
             image="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRp0ev95C3IUujBxp-4q_ySEBU1LjJtjasdGscD3IvErAOnGGVKrXqIC1RR8t8GWWGg9xLhX48u-JD58VtkE2CE1XV2ZDM4e4XsmiDswwE&usqp=CAE"
             rating={4}
           />
+          
           <Product
             title="AVSHUB BT21 Plushies"
             price={1424}
